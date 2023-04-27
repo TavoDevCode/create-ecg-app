@@ -1,7 +1,7 @@
 {
   "name": "server-tushop",
   "version": "1.0.0",
-  "description": "",
+  "description": "This project is preconfigured with express by TavoDevCode",
   "main": "index.js",
   "scripts": {
     "start": "node dist/index.js",
